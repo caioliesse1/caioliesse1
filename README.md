@@ -1,6 +1,6 @@
 ## Olá, tudo bem? Prazer, me chamo Caio Liesse 👋
 
-- 🔭 Hoje trabalho com front-end
+- 🔭 Hoje estudo para um dia trabalhar com front-end
 - 🌱 Estudando JavaScript 
 - 😄 Pronouns: ele/dele
 
