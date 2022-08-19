@@ -1,4 +1,4 @@
-## Olá, tudo bem? Prazer, me chamo Caio Liesse 👋
+## Olá, Tudo bem? Prazer, me chamo Caio Liesse 👋
 
 - 🔭 Hoje estudo para um dia trabalhar com front-end
 - 🌱 Estudando JavaScript 
