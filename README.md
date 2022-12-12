@@ -2,7 +2,7 @@
 
 - 🔭 Hoje estudo para um dia trabalhar com front-end
 - 🌱 Estudando JavaScript 
-- 😄 Pronouns: ele/dele
+
 
 <div>
   <a href="https://github.com/caioliesse1/">
